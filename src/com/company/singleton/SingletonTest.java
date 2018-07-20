@@ -1,4 +1,4 @@
-package com.company.oop;
+package com.company.singleton;
 
 public class SingletonTest {
 
